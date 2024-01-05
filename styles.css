@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.nav-link {
+  transition: 0.5s;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #FF9800;
+  color: #fff;
+  border-radius: 10px;
+  text-underline-offset: 5px;
+}
+
+.insta {
+  transition: 0.5s;
+}
+
+.insta:hover {
+  background-color: #FF9800;
+}
+
+.facebook {
+  transition: 0.5s;
+}
+
+.facebook:hover {
+  background-color: #FF9800;
+}
+
+.twitter {
+  transition: 0.5s;
+}
+
+.twitter:hover {
+  background-color: #FF9800;
+}
+
+.cart {
+  transition: 0.5s;
+}
+
+.cart:hover {
+  background-color: #FF9800;
+}
+
+.title {
+  font-family: "Poppins", sans-serif;
+  margin-top: 1em;
+}
+
+.navbar-container {
+  height: 120vh;
+  overflow: hidden;
+}
+
+.the-best-pizza {
+  margin-top: 8em;
+}/*# sourceMappingURL=styles.css.map */
